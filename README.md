@@ -8,5 +8,5 @@ Task 3: Display the students for the current teacher
 Task 4: Set the DataContext for the page
 Task 5: Build and test the application
 
-
+La aplicación compila sin errores y muestra el resultado esperado.
 PROBLEMAS
